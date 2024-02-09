@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "gulp",
-    "build": "CI= gulp build"
+    "build": "CI= npm run build"
   },
   "author": "J. Manuel Sandi",
   "license": "ISC",
