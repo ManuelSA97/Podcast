@@ -4,7 +4,8 @@
   "description": "Podcast App. CSS Grid, Flexbox, Gulp, SASS",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp"
+    "dev": "gulp",
+    "build": "CI= gulp build"
   },
   "author": "J. Manuel Sandi",
   "license": "ISC",
